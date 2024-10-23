@@ -5,8 +5,7 @@ The repo contains 2 files(excluding readme) one power point presentation and the
 
 
 # Project Name
-> EDA UseCase - Loan risk
-
+> EDA UseCase - Loan risk by Manish Agarwal and Ayush Shrivastav Batch C 68
 
 
 ## Table of Contents
@@ -17,14 +16,14 @@ The repo contains 2 files(excluding readme) one power point presentation and the
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## General Information with Key objective 
 - The Data Set provided is for company which e largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
-Most important risk is to lend loans to ‘risky’ applicants who cannot repay the loan. 
-Non repayment of the loan leads to credit loss. 
+Most important risk is to lend loans to ‘risky’ applicants who cannot repay the loan. Non repayment of the loan leads to credit loss. 
 
-Key Objective: 
-Company wants to identify risky loan applicants and reduce/mitigate the risk to certain extent. 
-![image](https://github.com/user-attachments/assets/f1973194-a699-4b43-a236-9d9b70df95b4)
+- Key Objective: Company wants to identify risky loan applicants and reduce/mitigate the risk to certain extent.
+
+- Data set is provided in csv format
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
